@@ -1,2 +1,4 @@
 # Github_intro
-simple intro on how to use Github
+Simple intro on how to use Github
+
+Creating my first repo on Github
